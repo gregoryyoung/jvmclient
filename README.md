@@ -1,0 +1,4 @@
+jvmclient
+=========
+
+Akka JVM Client
